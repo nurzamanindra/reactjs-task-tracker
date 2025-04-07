@@ -13,8 +13,13 @@
 
 ---
 
-## Screenshots
+## Preview
 ![Screenshot](./_preview/page-01.png)
+
+---
+
+## Demo
+![Demo GIF](./_preview/Demo.gif)
 
 ---
 
